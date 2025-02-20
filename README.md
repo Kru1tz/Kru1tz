@@ -1,7 +1,3 @@
-
-
-**Kru1tz/Kru1tz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Ciao, sono KruitzDev!
 
 👨‍💻 **Java Developer Junior | Spring Boot | Backend Developer**  
@@ -9,26 +5,23 @@
 
 ## 🚀 Tecnologie & Competenze
 - 💻 Java, Spring Boot, Hibernate, REST API
-- 🛢️ PostgreSQL, MySQL, MongoDB
-- 🛠️ Docker, Git, GitHub Actions
+- 🛢️ PostgreSQL
+- 🛠️ Git & Github
 - 🌐 HTML, CSS, JavaScript (Base)
 
+## 🚀 Cosa sto facendo?  
+- 🌱 **Sto imparando**: Spring Security
+- 👯 **Mi piacerebbe collaborare su**: Progetti open-source o applicazioni Java  
+- 💬 **Chiedimi di più su**: Java, Spring Boot, REST API  
+
 ## 📌 Contatti
-📧 Email: tuoemail@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/tuonome)  
-🖥️ [Portfolio](https://tuosito.com)  
+📧 Email: andersonrz96@hotmail.com
+
+
 
 🚀 *Sempre alla ricerca di nuove sfide e progetti interessanti!*
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
